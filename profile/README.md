@@ -1,4 +1,4 @@
-Being an assortment of mathematical brillinace and bright programming concepts, Artificial Neural Networks are algorithms from [THE BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
+Being an assortment of mathematical brillinace and bright programming concepts, Artificial Neural Networks are [algorithms from THE BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
 
 We believe in spreading the beauty of ANNs in two ways:
 
