@@ -1,6 +1,6 @@
 Being assortments of mathematical brillinace and bright programming, Artificial Neural Networks are [algorithms from THE BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK).
 
-We believe in spreading the beauty of ANNs in two ways:
+We believe in spreading the beauty of neural networks in two ways:
 
 1. **Stochaster Framework for Neural Networks**. Stochaster allows you to study neural networks by creating them, tweaking them and expanding their capabilities.
    - This framework is developed to provide a thorough understanding on NNs both while using them in your code, or reading our source-code. More technical info available in the [Stochaster Repo](https://github.com/StochasterAI/Stochaster).
