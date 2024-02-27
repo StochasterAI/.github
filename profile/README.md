@@ -1,4 +1,4 @@
-Being assortments of mathematical brillinace and bright programming, Artificial Neural Networks are [algorithms from THE BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
+Being assortments of mathematical brillinace and bright programming, Artificial Neural Networks are [algorithms from THE BOOK].(https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
 
 We believe in spreading the beauty of ANNs in two ways:
 
@@ -7,4 +7,4 @@ We believe in spreading the beauty of ANNs in two ways:
 2. Stochaster Lectures on Neural Networks. These lectures cover ANNs in various levels of depth and complexity with full explanations on the underlying mathematics.
    - Lectures contain PyTorch models followed by ground-up implementations on them used on example datasets (such as MNIST), and dive deep into their linear algebra and calculus and cover more advanced model-specific domains if needed (such as graph theory in GNNs).
 
-and this is our [email](stochaster.ai@gmail.com).
+Finally, this is our [email](stochaster.ai@gmail.com).
